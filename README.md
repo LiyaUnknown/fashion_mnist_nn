@@ -1,5 +1,5 @@
 # fashion_mnist_nn
-In this repository i will show you how you can build your simple Nural Network using fashion mnist dataset from tensorflow 😁📌  if you like this repository you can see many article in my medium account  : https://medium.com/@liyafarahani 😅✍️ 
+In this repository i will show you how you can build your simple Nural Network using fashion mnist dataset from tensorflow 😁📌 Here is the article about this code and project 😁📚 : https://liyafarahani.medium.com/building-an-image-classification-model-with-tensorflow-a-beginners-guide-13b9cc55ab2d 😅✍️ 
 
 # Fashion mnit Labels 📌✍️
 
